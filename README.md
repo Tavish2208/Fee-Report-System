@@ -18,7 +18,6 @@ The **Fee Report System** is a comprehensive software solution designed to autom
 Ensure you have the following installed:
 - **Java Development Kit (JDK)** (8 or later)
 - **MySQL Server** (5.7 or later)
-- **Apache Maven** (if using Maven for build management)
 - **IDE:** Eclipse/IntelliJ IDEA/NetBeans
 
 ### Database Configuration
@@ -42,7 +41,6 @@ Ensure you have the following installed:
    ```
 2. Compile and run:
    ```sh
-   mvn clean install
    java -jar target/FeeReportSystem.jar
    ```
 
